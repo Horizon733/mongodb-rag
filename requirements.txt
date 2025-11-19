@@ -1,0 +1,10 @@
+streamlit 
+langchain-text-splitters
+langchain-mongodb 
+langchain-community 
+sentence-transformers
+langchain 
+pymongo
+ollama
+pypdf
+requests
